@@ -4,13 +4,16 @@ This is a todo app developed using Kotlin and XML in Android Studio. The app is 
 
 Features
 
-Add, edit, and delete tasks
-Set due dates and reminders
-Organize tasks by priority or category
-Search function to quickly find specific tasks
+Add, edit, and delete tasks.
+
+Set due dates and reminders.
+
+Organize tasks by priority or category.
+
+Search function to quickly find specific tasks.
 
 Technology Used
 
-Kotlin
-XML
+Kotlin,
+XML,
 Android Studio
